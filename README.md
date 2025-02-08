@@ -51,8 +51,9 @@
 
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Motivational Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Stay+hungry%2C+stay+foolish.;Code%2C+Create%2C+Innovate.;Never+stop+learning." alt="Typing Quote" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shehab-k&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
